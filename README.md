@@ -1,6 +1,9 @@
 # Bienvenido a mi pagina principal en GitHub !! Yo soy @aleatomic🫡
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnppOGhoaG51OXI3Ym1tazAzamN6OGZsc2ZjM2VjcHkxdmFyYnVsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hENDkVRxKsctCpuAun/giphy.gif" width="200">
+<!--<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnppOGhoaG51OXI3Ym1tazAzamN6OGZsc2ZjM2VjcHkxdmFyYnVsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hENDkVRxKsctCpuAun/giphy.gif" width="200"> -->
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnppOGhoaG51OXI3Ym1tazAzamN6OGZsc2ZjM2VjcHkxdmFyYnVsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hENDkVRxKsctCpuAun/giphy.gif" width="300">
+</div>
 
 ## ¿Que hay de mi? 👦🏻
 Soy un joven estudiante sobre la programacion, me gusta mucho programar, el soporte tecnico, las redes, servidores, los sistemas operativos, en especial Linux. Me gusta toda la tecnoligia e innovacion en general, es tan interesante! asi como las matematicas y la estadistica.
