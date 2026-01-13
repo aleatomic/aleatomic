@@ -6,7 +6,7 @@
 </div>
 
 ## ¿Que hay de mi? 👦🏻
-Soy un joven estudiante sobre la programacion, me gusta mucho programar, el soporte tecnico, las redes, servidores, los sistemas operativos, en especial Linux. Me gusta toda la tecnoligia e innovacion en general, es tan interesante! asi como las matematicas y la estadistica.
+Soy una persona amante y aficionado de la tencologia, me gusta mucho programar, el soporte tecnico, las redes, servidores, los sistemas operativos, en especial Linux. Me gusta toda la tecnoligia e innovacion en general, es tan interesante! asi como las matematicas y la estadistica.
 
 ## ¿Que espero? ↗️
 Espero poder ser un buen programador, aprender de muchos temas y poder saber tantas cosas, asi como poder estar aportando algo a la comunidad y lograr dejar una pequeña huella en estos lugares tan geniales como lo es la tecnologia!.
@@ -28,3 +28,5 @@ Finalmente, me considero una persona responsable, proactiva y con muchas ganas d
 aleatomic/aleatomic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
